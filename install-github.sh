@@ -23,11 +23,11 @@ sudo apt install -y liblapack-dev
 #sudo apt install -y python
 #sudo apt install -y python2
 #sudo apt install -y libpython2-dev
-sudo apt install -y python3.7
-sudo apt install -y libpython3.7-dev
-sudo apt install -y python3.7-distutils
-sudo apt install -y python-numpy
-sudo apt install -y python-matplotlib
+sudo apt install -y python3
+sudo apt install -y libpython3-dev
+sudo apt install -y python3-distutils
+sudo apt install -y python3-numpy
+sudo apt install -y python3-matplotlib
 sudo apt install -y csh
 sudo apt install -y wget
 sudo apt install -y git
